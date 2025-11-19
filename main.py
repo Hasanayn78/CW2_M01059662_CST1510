@@ -78,7 +78,7 @@ def main():
         elif choice == "2":
             login_user()
         elif choice == "3":
-            print("👋 Goodbye!")
+            print(" Goodbye!")
             break
         else:
             print(" Invalid choice, try again.")
